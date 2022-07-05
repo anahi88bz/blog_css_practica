@@ -116,3 +116,15 @@ main .main-section__container  .main-button__container  button {
     border: 1px solid gray;
  }
  
+ footer {
+     display: grid;
+     width: 100%;
+    
+ }
+ footer p {
+    border-top: 20px solid #47cfac;
+    background-color: #26252d;
+    color: white;
+    height: 60px;
+    
+ }
